@@ -42,7 +42,7 @@ para activar el autoleer automatico y utiliza
 desactivar estas funciones
 ```
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![TheShadowBrokers1](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/TheShadowBrokers1) 
+[![Lectura rápida](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/TheShadowBrokers1) 
 ```bash
 `The Shadow Brokers - Bot ___ by Bruno Sobrino` 
 ```
