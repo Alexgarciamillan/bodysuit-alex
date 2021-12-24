@@ -1,4 +1,4 @@
-# ***`The Shadow Brokers - Bot`***
+# ***`bodysuit - Bot`***
 ### `Si necesitas ayuda mandame mensaje`
 <a href="http://wa.me/5219996125657" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete al grupo ofical para conocer novedades del Bot`
