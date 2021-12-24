@@ -2,7 +2,7 @@
 ### `Si necesitas ayuda mandame mensaje`
 <a href="http://wa.me/5219996125657" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete al grupo ofical para conocer novedades del Bot`
-[![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ)
+[![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CkRRkku3zlVCXfUuckYxeR)
 ### `AJUSTES`
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/TheShadowBrokers1/TheShadowBrokers-Bot/blob/master/config.js)
 
